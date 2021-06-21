@@ -19,4 +19,4 @@
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [PynamoDB](https://github.com/pynamodb/PynamoDB)
 
-## [🗄 Wiki](environment/README.md)
+## [🗄 Wiki](wiki/environment/README.md)

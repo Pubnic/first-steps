@@ -1,4 +1,4 @@
-[# Primeiros Passos](https://pubnic.github.io/first-steps/)
+# [Primeiros Passos](https://pubnic.github.io/first-steps/)
 
 ## 🚀 Tecnologias
 

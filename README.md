@@ -10,7 +10,6 @@
 - [React Final Form](https://final-form.org/react)
 - [Axios](https://github.com/axios/axios)
 - [Styled Components](https://styled-components.com/)
-- 
 
 ### 🌚 Backend
 - [Serverless](https://www.serverless.com/)

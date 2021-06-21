@@ -3,5 +3,5 @@
 # Ambiente
 
 ## Preparar o ambiente
-- [Backend](environment/backend.md)
-- [Frontend](environemnt/frontend.md)
+- [Backend](environment/backend)
+- [Frontend](environemnt/frontend)

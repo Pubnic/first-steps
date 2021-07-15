@@ -43,7 +43,7 @@ Criar uma API de Todo List onde eu consiga criar, listar todos, pegar um, editar
 - Antes de iniciar o desafio, certifique-se que configurou o seu ambiente de acordo com o [tutorial de backend na Wiki](wiki/environment/backend)
 - Somente é necessário mexer nos seguintes arquivos
     - `todos/views.py`, onde você irá criar os endpoints.
-    - `todos/db/models.py`, onde você irá adicionar os campos que faltam no Todo
+    - `todos/db/models.py` e `todos/serializers.py`, onde você irá adicionar os campos que faltam no Todo
 - Para manipular o banco de dados, utilize a classe `TodosDBService` já importado em `todos/views.py`
 
 Foi preparado um repositório com os requisitos mínimos para que você possa focar somente em aprender o framework FastAPI.

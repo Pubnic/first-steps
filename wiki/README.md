@@ -1,10 +1,8 @@
 # Wiki
 
 # Ambiente
-
-## Preparar o ambiente
 - [Backend](environment/backend)
 - [Frontend](environemnt/frontend)
 
-## Preparação
+# Preparação
 - [Estudar Python](learning/python)
